@@ -26,7 +26,9 @@ import shelve
 import ConfigParser
 
 __author__ = 'Sam Pepler'
-
+__date__ = "07/10/2015"
+__copyright__ = "(C) 2015 Science and Technology Facilities Council"
+__license__ = "BSD - see LICENSE file in top-level directory"
 
 class Count:
     """"Class to contain a cached count of the number of files in a directory by day."""
